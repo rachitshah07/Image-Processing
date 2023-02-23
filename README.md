@@ -6,7 +6,10 @@ decisions to replicate the functioning of brain. Optimized accuracy
 of the model can be achieved by adding multiple layers
 to the neural network. Thus, Deep learning can particularly be
 used in the area of analyzing medical images to improve
-the accuracy and delay.
+the accuracy and delay.There are various techniques to enhance images which include
+filtering,noise removal, linear contrast adjustment, histogram
+equalization etc. Implementation of these techniques result
+in a better understanding of the images.
 ## Tech Stack
 ***IDE:*** Jupyter
 
