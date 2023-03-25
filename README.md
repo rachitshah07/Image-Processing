@@ -17,7 +17,7 @@ in a better understanding of the images.
 ## Dataset
 
 Google Drive Link : https://drive.google.com/drive/folders/1VnL7wKmS21f19Bm2p-c59S0-8KpbHU-n?usp=share_link
-## Authors
+## Contributors
 
 - [@KingfisheR2001](https://github.com/KingfisheR2001)
 - [@Ravij22 ](https://github.com/Ravij22)
